@@ -9,3 +9,8 @@ body {
 .font-mono {
 	font-family: 'Ubuntu Mono', monospace;
 }
+
+/* tailwind classes */
+.btn {
+	@apply px-5 py-4 text-brand border border-brand rounded-md;
+}
