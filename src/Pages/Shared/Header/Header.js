@@ -1,4 +1,5 @@
 import React from 'react';
+import { NavLink } from 'react-router-dom';
 
 const Header = () => {
 	return (
@@ -10,11 +11,11 @@ const Header = () => {
 				</span>
 			</h4>
 			<div className='space-x-4 font-mono'>
+				<NavLink className='capitalize' to='/'>
+					<span className='mr-2 text-brand'>01.</span>home
+				</NavLink>
 				<a className='capitalize' href='#about'>
-					<span className='mr-2 text-brand'>01.</span>about
-				</a>
-				<a className='capitalize' href='#experience'>
-					<span className='mr-2 text-brand'>02.</span>experience
+					<span className='mr-2 text-brand'>02.</span>about
 				</a>
 				<a className='capitalize' href='#work'>
 					<span className='mr-2 text-brand'>03.</span>work

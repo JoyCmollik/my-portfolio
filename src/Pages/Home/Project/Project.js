@@ -1,9 +1,10 @@
 import React from 'react';
 import { BsCodeSquare } from 'react-icons/bs';
 import { FiGithub } from 'react-icons/fi';
+import { Link } from 'react-router-dom';
 
 const Project = ({ project }) => {
-	const { githubLink, projectTitle, projectDesc, projectTechs } = project;
+	const { id, githubLink, projectTitle, projectDesc, projectTechs } = project;
 
 	return (
 		<div className='space-y-2 p-4 bg-main rounded-md flex flex-col justify-between h-full'>
@@ -28,6 +29,13 @@ const Project = ({ project }) => {
 						{tech}
 					</p>
 				))}
+			</div>
+			<div className='flex justify-end'>
+				<Link to={`project/${id}`}>
+					<button className='px-2 py-1 text-brand border border-brand rounded-md'>
+						More Details
+					</button>
+				</Link>
 			</div>
 		</div>
 	);

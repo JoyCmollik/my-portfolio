@@ -1,0 +1,98 @@
+[
+	{
+		"id": 1,
+		"githubLink": "https://github.com/JoyCmollik/eyeside-niche-website-client-side-react",
+		"projectTitle": "Eyeside (a niche product showcasing project)",
+		"projectDesc": "A project that showcases eyewear collection and enables users to purchase and manage their orders.",
+		"projectTechs": ["TailwindCSS", "React", "NodeJS", "MongoDB"],
+		"project_features": [
+			"Collection of different eyewears being represented in an easy and simple look",
+			"Authentication process to enable further features like being able to handle orders on the client side",
+			"Clients can give a review and thereby find it in the home screen",
+			"Admin can add a new admin, assuring privacy by jwt token",
+			"Admin can manage and update status of all of the orders"
+		],
+		"live_side_link": "https://eyeside-3712b.web.app/home",
+		"client_side_link": "https://github.com/JoyCmollik/eyeside-niche-website-client-side-react",
+		"server_side_link": "https://github.com/JoyCmollik/eyeside-niche-website-server-side-react",
+		"home_sc": "https://i.ibb.co/k1LfL5X/eyeside1.png",
+		"more_sc": [
+			"https://i.ibb.co/hWW6kzf/Eye-Side2png.png",
+			"https://i.ibb.co/s3Srsfy/EyeSide4.png",
+			"https://i.ibb.co/4J2WcJf/EyeSide3.png",
+			"https://i.ibb.co/kQzvVkF/EyeSide.png"
+		]
+	},
+	{
+		"id": 2,
+		"githubLink": "https://github.com/JoyCmollik/grow-skill-client-side",
+		"projectTitle": "growSkill (life skill enhancing educational platform)",
+		"projectDesc": "A project that showcases eyewear collection and enables users to purchase and manage their orders.",
+		"projectTechs": ["TailwindCSS", "HTML5", "React", "React Router"],
+		"project_features": [
+			"Collection of different eyewears being represented in an easy and simple look",
+			"Authentication process to enable further features like being able to handle orders on the client side",
+			"Clients can give a review and thereby find it in the home screen",
+			"Admin can add a new admin, assuring privacy by jwt token",
+			"Admin can manage and update status of all of the orders"
+		],
+		"live_side_link": "https://eyeside-3712b.web.app/home",
+		"client_side_link": "https://github.com/JoyCmollik/eyeside-niche-website-client-side-react",
+		"server_side_link": "https://github.com/JoyCmollik/eyeside-niche-website-server-side-react",
+		"home_sc": "https://i.ibb.co/k1LfL5X/eyeside1.png",
+		"more_sc": [
+			"https://i.ibb.co/hWW6kzf/Eye-Side2png.png",
+			"https://i.ibb.co/s3Srsfy/EyeSide4.png",
+			"https://i.ibb.co/4J2WcJf/EyeSide3.png",
+			"https://i.ibb.co/kQzvVkF/EyeSide.png"
+		]
+	},
+	{
+		"id": 3,
+		"githubLink": "https://github.com/JoyCmollik/doctors-origin-client-side",
+		"projectTitle": "Doctors Portal (An online platform to book doctors)",
+		"projectDesc": "This is a website focused on making all the doctors available online so the users can book their desired doctors sitting in their home.",
+		"projectTechs": ["TailwindCSS", "React", "NodeJS", "MongoDB"],
+		"project_features": [
+			"Collection of different eyewears being represented in an easy and simple look",
+			"Authentication process to enable further features like being able to handle orders on the client side",
+			"Clients can give a review and thereby find it in the home screen",
+			"Admin can add a new admin, assuring privacy by jwt token",
+			"Admin can manage and update status of all of the orders"
+		],
+		"live_side_link": "https://eyeside-3712b.web.app/home",
+		"client_side_link": "https://github.com/JoyCmollik/eyeside-niche-website-client-side-react",
+		"server_side_link": "https://github.com/JoyCmollik/eyeside-niche-website-server-side-react",
+		"home_sc": "https://i.ibb.co/k1LfL5X/eyeside1.png",
+		"more_sc": [
+			"https://i.ibb.co/hWW6kzf/Eye-Side2png.png",
+			"https://i.ibb.co/s3Srsfy/EyeSide4.png",
+			"https://i.ibb.co/4J2WcJf/EyeSide3.png",
+			"https://i.ibb.co/kQzvVkF/EyeSide.png"
+		]
+	},
+	{
+		"id": 4,
+		"githubLink": "https://github.com/JoyCmollik/explore-dream-client-side",
+		"projectTitle": "exploreDream (Tour planner website)",
+		"projectDesc": "This is a simple project where a tour planner platform is being created along with the maintenance of taking booking from the users.",
+		"projectTechs": ["TailwindCSS", "React", "NodeJS", "MongoDB"],
+		"project_features": [
+			"Collection of different eyewears being represented in an easy and simple look",
+			"Authentication process to enable further features like being able to handle orders on the client side",
+			"Clients can give a review and thereby find it in the home screen",
+			"Admin can add a new admin, assuring privacy by jwt token",
+			"Admin can manage and update status of all of the orders"
+		],
+		"live_side_link": "https://eyeside-3712b.web.app/home",
+		"client_side_link": "https://github.com/JoyCmollik/eyeside-niche-website-client-side-react",
+		"server_side_link": "https://github.com/JoyCmollik/eyeside-niche-website-server-side-react",
+		"home_sc": "https://i.ibb.co/k1LfL5X/eyeside1.png",
+		"more_sc": [
+			"https://i.ibb.co/hWW6kzf/Eye-Side2png.png",
+			"https://i.ibb.co/s3Srsfy/EyeSide4.png",
+			"https://i.ibb.co/4J2WcJf/EyeSide3.png",
+			"https://i.ibb.co/kQzvVkF/EyeSide.png"
+		]
+	}
+]
